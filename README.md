@@ -1,6 +1,6 @@
-# TaskMate
+# Task Mate
 
-TaskMate is a desktop application developed using **Visual Studio (C#)** as part of my **First Year, Second Semester Individual Project** for the BIT degree program.
+**Task Mate** is a desktop application developed using **Visual Studio (C#)** as part of my **First Year, Second Semester Individual Project** for the BIT degree program.
 
 ## Features
 - Add, edit, and delete tasks
